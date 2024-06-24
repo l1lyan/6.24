@@ -1,0 +1,3 @@
+﻿  test.c
+F:\c语言\课堂代码\test_6.24\test_6.24\test.c(253,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_6.24.vcxproj -> F:\c语言\课堂代码\test_6.24\x64\Debug\test_6.24.exe
